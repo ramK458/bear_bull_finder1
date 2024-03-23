@@ -1,0 +1,3 @@
+[submodule "modules/custom_stockfilter"]
+	path = modules/custom_stockfilter
+	url = https://github.com/ramK458/custom_stockfilter.git
